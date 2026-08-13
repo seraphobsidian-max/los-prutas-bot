@@ -1,0 +1,12 @@
+{
+  "name": "facebook-group-bot",
+  "version": "1.0.0",
+  "description": "Facebook group chat automation bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fca-unofficial": "^1.3.0"
+  }
+}
